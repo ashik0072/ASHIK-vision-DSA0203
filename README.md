@@ -59,3 +59,23 @@
 29.Morphological operations based on OpenCV using Erosion technique
 
 30.Morphological operations based on OpenCV using Dilation technique
+
+31.Morphological operations based on OpenCV using Opening technique.
+
+32.Morphological operations based on OpenCV using Closing technique.
+
+33.Morphological operations based on OpenCV using Morphological Gradient technique
+
+34.Morphological operations based on OpenCV using Top hat technique.
+
+35.Morphological operations based on OpenCV using Black hat technique.
+
+36.Recognise watch from the given image by general Object recognition using OpenCV.
+
+37.Using Opencv play Video in Reverse mode.
+
+38.Face Detection using Opencv
+
+39.Vehicle Detection in a Video frame using OpenCV
+
+40.Draw Rectangular shape and extract objects
