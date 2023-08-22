@@ -1,4 +1,4 @@
-# ASHIK-vision-DSA0203-OUTPUTS
+# COMPUTER VISION PRACTICAL QUESTIONS
 
 1.Perform basic Image Handling and processing operations on the image. • Read an image in python and Convert an Image to Grayscale
 
